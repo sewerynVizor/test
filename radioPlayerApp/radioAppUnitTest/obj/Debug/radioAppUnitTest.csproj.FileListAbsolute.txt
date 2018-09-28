@@ -1,0 +1,16 @@
+c:\users\test\documents\visual studio 2013\Projects\radioPlayerApp\radioAppUnitTest\bin\Debug\radioAppUnitTest.dll
+c:\users\test\documents\visual studio 2013\Projects\radioPlayerApp\radioAppUnitTest\bin\Debug\radioAppUnitTest.pdb
+c:\users\test\documents\visual studio 2013\Projects\radioPlayerApp\radioAppUnitTest\bin\Debug\radioPlayerApp.exe
+c:\users\test\documents\visual studio 2013\Projects\radioPlayerApp\radioAppUnitTest\bin\Debug\radioPlayerApp.pdb
+c:\users\test\documents\visual studio 2013\Projects\radioPlayerApp\radioAppUnitTest\obj\Debug\radioAppUnitTest.csprojResolveAssemblyReference.cache
+c:\users\test\documents\visual studio 2013\Projects\radioPlayerApp\radioAppUnitTest\obj\Debug\radioAppUnitTest.dll
+c:\users\test\documents\visual studio 2013\Projects\radioPlayerApp\radioAppUnitTest\obj\Debug\radioAppUnitTest.pdb
+C:\Code\radioPlayerApp\radioAppUnitTest\bin\Debug\radioAppUnitTest.dll
+C:\Code\radioPlayerApp\radioAppUnitTest\bin\Debug\radioAppUnitTest.pdb
+C:\Code\radioPlayerApp\radioAppUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Code\radioPlayerApp\radioAppUnitTest\bin\Debug\radioPlayerApp.exe
+C:\Code\radioPlayerApp\radioAppUnitTest\bin\Debug\radioPlayerApp.pdb
+C:\Code\radioPlayerApp\radioAppUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Code\radioPlayerApp\radioAppUnitTest\obj\Debug\radioAppUnitTest.csprojResolveAssemblyReference.cache
+C:\Code\radioPlayerApp\radioAppUnitTest\obj\Debug\radioAppUnitTest.dll
+C:\Code\radioPlayerApp\radioAppUnitTest\obj\Debug\radioAppUnitTest.pdb

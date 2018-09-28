@@ -1,0 +1,12 @@
+c:\users\test\documents\visual studio 2013\Projects\radioPlayerApp\radioPlayerApp\bin\Debug\radioPlayerApp.exe.config
+c:\users\test\documents\visual studio 2013\Projects\radioPlayerApp\radioPlayerApp\bin\Debug\radioPlayerApp.exe
+c:\users\test\documents\visual studio 2013\Projects\radioPlayerApp\radioPlayerApp\bin\Debug\radioPlayerApp.pdb
+c:\users\test\documents\visual studio 2013\Projects\radioPlayerApp\radioPlayerApp\obj\Debug\radioPlayerApp.csprojResolveAssemblyReference.cache
+c:\users\test\documents\visual studio 2013\Projects\radioPlayerApp\radioPlayerApp\obj\Debug\radioPlayerApp.exe
+c:\users\test\documents\visual studio 2013\Projects\radioPlayerApp\radioPlayerApp\obj\Debug\radioPlayerApp.pdb
+C:\Code\radioPlayerApp\radioPlayerApp\bin\Debug\radioPlayerApp.exe.config
+C:\Code\radioPlayerApp\radioPlayerApp\bin\Debug\radioPlayerApp.exe
+C:\Code\radioPlayerApp\radioPlayerApp\bin\Debug\radioPlayerApp.pdb
+C:\Code\radioPlayerApp\radioPlayerApp\obj\Debug\radioPlayerApp.exe
+C:\Code\radioPlayerApp\radioPlayerApp\obj\Debug\radioPlayerApp.pdb
+C:\Code\radioPlayerApp\radioPlayerApp\obj\Debug\radioPlayerApp.csprojResolveAssemblyReference.cache
